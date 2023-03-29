@@ -1,4 +1,4 @@
-# Aluroni
+# :rocket: Aluroni
 # 🖥️ Confira este projeto no Vercel: https://app-cardapio-aluroni.vercel.app/
 
 # 📕Descrição
